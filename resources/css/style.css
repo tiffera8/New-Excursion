@@ -1,0 +1,41 @@
+body {
+  background-color: black;
+  text-align: center;
+
+}
+
+h1, h2, footer {
+  color: white;
+}
+
+.header {
+  Font-family: Verdana;
+  Font-weight: normal;
+  font-size: 50px;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.travel img {
+  padding-bottom: 12px;
+}
+
+.travel p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+.travel h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+footer {
+  text-align: right;
+  color: gray;
+}
